@@ -79,7 +79,7 @@ const Board = () => {
 
   return (
     <div className="container max-w-screen-lg mx-auto">
-      <div className='text-xl font-bold mt-5 mb-3 text-center'>고객 정보 리스트</div>
+      <div className='text-xl font-bold mt-5 mb-3 text-center'>고객 정보 목록</div>
       <table className="table-auto border-collapse border border-purple-800 text-sm">
         <thead>
           <tr>
